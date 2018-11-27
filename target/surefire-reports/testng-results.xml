@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31646" started-at="2018-11-21T15:21:30 IST" finished-at="2018-11-21T15:22:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31646" started-at="2018-11-21T15:21:30 IST" finished-at="2018-11-21T15:22:02 IST">
+      <class name="test.Testguru99login">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Testguru99login@23faf8f2]" name="setup" is-config="true" duration-ms="29274" started-at="2018-11-21T15:21:30 IST" finished-at="2018-11-21T15:22:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login_invalid()[pri:0, instance:test.Testguru99login@23faf8f2]" name="login_invalid" duration-ms="1944" started-at="2018-11-21T15:22:00 IST" finished-at="2018-11-21T15:22:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_invalid -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.Testguru99login@23faf8f2]" name="closeBrowser" is-config="true" duration-ms="401" started-at="2018-11-21T15:22:02 IST" finished-at="2018-11-21T15:22:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.Testguru99login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
